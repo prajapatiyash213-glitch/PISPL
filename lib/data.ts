@@ -276,7 +276,7 @@ export const testimonials = [
   },
   {
     quote:
-      "Straightforward, technically sound, and none of the reseller upsell we'd dealt with before. Exactly what a growing office needed.",
+      "Straightforward, technically sound, and none of the SI partner upsell we'd dealt with before. Exactly what a growing office needed.",
     name: "CTO / CXO",
     role: "Corporate office client",
   },
