@@ -247,7 +247,7 @@ export const partnerLogos = [
   { name: "BenQ", src: "/images/partners/benq.svg" },
   { name: "Sophos", src: "/images/partners/sophos.png" },
   { name: "APC", src: "/images/partners/apc.png" },
-  { name: "Dell", src: "/images/partners/dell.png", heightClass: "h-[30px]" },
+  { name: "Dell", src: "/images/partners/dell.svg", heightClass: "h-[30px]" },
   { name: "Lenovo", src: "/images/partners/lenovo.png" },
   { name: "ViewSonic", src: "/images/partners/viewsonic.png" },
 ];
@@ -277,7 +277,7 @@ export const testimonials = [
   {
     quote:
       "Straightforward, technically sound, and none of the reseller upsell we'd dealt with before. Exactly what a growing office needed.",
-    name: "Admin Manager",
+    name: "CTO / CXO",
     role: "Corporate office client",
   },
 ];
