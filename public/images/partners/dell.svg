@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120">
+  <circle cx="60" cy="60" r="50" fill="none" stroke="#007db8" stroke-width="7" />
+  <g fill="#007db8" style="font-family: 'Arial Black', Arial, sans-serif; font-weight: 900; font-size: 30px;">
+    <text x="18" y="70">D</text>
+    <text x="42" y="70" transform="rotate(-40, 52, 60)">E</text>
+    <text x="64" y="70">L</text>
+    <text x="84" y="70">L</text>
+  </g>
+</svg>

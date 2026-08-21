@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 90" width="320" height="90">
+  <style>
+    .brand-name {
+      font-family: Georgia, 'Times New Roman', serif;
+      font-weight: bold;
+      fill: #2B76FF;
+    }
+    .tagline {
+      font-family: 'Outfit', 'Inter', 'Segoe UI', sans-serif;
+      font-weight: 700;
+      fill: #F1F5F9;
+      font-size: 15.5px;
+      letter-spacing: 0.02em;
+    }
+  </style>
+  
+  <!-- "P" of PRISHTVIK -->
+  <text x="0" y="64" class="brand-name" font-size="80">P</text>
+  
+  <!-- "RISHTVIK" of PRISHTVIK -->
+  <text x="52" y="52" class="brand-name" font-size="52" letter-spacing="1">RISHTVIK</text>
+  
+  <!-- Tagline: Quality Workmanship -->
+  <text x="120" y="78" class="tagline">Quality Workmanship</text>
+</svg>
